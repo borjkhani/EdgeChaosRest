@@ -1,5 +1,3 @@
-# EdgeChaosRest
-
 # NMDA kinetics, Mg²⁺ block and the edge of instability in a biophysical cortical network
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2020a%2B-orange.svg)](https://www.mathworks.com/products/matlab.html)
